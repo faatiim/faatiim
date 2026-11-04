@@ -5,7 +5,7 @@
 - 🔭 **Projet phare** : [Accès à l'électricité en Afrique de l'Ouest (2000-2024)](https://github.com/faatiim/analec) — pipeline Python + DuckDB et [tableau de bord interactif](https://analec-dashboard.vercel.app/)
 - 🛠️ **Outils** : SQL (SQL Server, PostgreSQL, DuckDB) · Power BI · Python (pandas) · Excel / VBA · ArcGIS Pro · Git
 - 🌱 **En cours** : de nouveaux projets d'analyse (ventes, clients, marketing…)
-- 📫 [Portfolio](https://fatoumata-dieye.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fatoumata-dieye-82b8a520b/) · fatima.dieye03@gmail.com
+- 📫 [Portfolio](https://fatoumata-dieye.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fatoumata-dieye/) · fatima.dieye03@gmail.com
 
 ---
 
